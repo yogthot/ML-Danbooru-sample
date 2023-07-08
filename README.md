@@ -1,6 +1,6 @@
 # ML-Danbooru barebones sample
 
-This repo is just a very basic working sample for the latest ML-Danbooru models.
+This repo is just a very basic working sample for the latest ML-Danbooru models made by [7eu7d7](https://github.com/7eu7d7/ML-Danbooru).
 
 Last tested with `ml_caformer_m36_fp16_dec-5-97527.ckpt`.
 
