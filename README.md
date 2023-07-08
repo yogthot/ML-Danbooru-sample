@@ -4,11 +4,11 @@ This repo is just a very basic working sample for the latest ML-Danbooru models.
 
 Last tested with `ml_caformer_m36_fp16_dec-5-97527.ckpt`.
 
-# Links
+## Links
 - Original repository: https://github.com/7eu7d7/ML-Danbooru
 - Models: https://github.com/7eu7d7/ML-Danbooru
 
-# Usage
+## Usage
 ```
 $ python main.py ml_caformer_m36_fp32_dec-5-97527.ckpt
 loading the model...
